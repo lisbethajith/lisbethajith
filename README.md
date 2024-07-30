@@ -32,7 +32,7 @@
 
 ## 🌐 Connect with Me
 - 📧 **Email**: [lisbethajith@gmail.com](mailto:lisbethajith@gmail.com)
-- 💼 **LinkedIn**: [Lisbeth Ajith](https://www.linkedin.com/in/lisbeth-ajith)
+- 💼 **LinkedIn**: [Lisbeth Ajith](https://www.linkedin.com/in/lisbeth-ajith-ab3445228))
 
 ## 🎯 Goals for 2024
 - 🌐 Create my portfolio website
